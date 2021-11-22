@@ -28,7 +28,6 @@ namespace ForgottenRealmsFactionPatch
             {
                 content = LoadedModManager.GetMod<ForgottenRealmsPatch>().Content;
                 string text = Path.Combine(Path.Combine(content.RootDir, __instance.source), folder);
-                Log.Message("text: " + text);
                 if (PatchOperation_OnDemand.loaded.Contains(text))
                 {
                     __result = false;
