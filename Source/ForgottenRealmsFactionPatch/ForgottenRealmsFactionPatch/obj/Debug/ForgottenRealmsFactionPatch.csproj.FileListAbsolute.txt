@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Forgotten-Realms-Faction-Patch\Source\ForgottenRealmsFactionPatch\ForgottenRealmsFactionPatch\obj\Debug\ForgottenRealmsFactionPatch.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Forgotten-Realms-Faction-Patch\Source\ForgottenRealmsFactionPatch\ForgottenRealmsFactionPatch\obj\Debug\ForgottenRealmsFactionPatch.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Forgotten-Realms-Faction-Patch\1.3\Assemblies\ForgottenRealmsFactionPatch.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Forgotten-Realms-Faction-Patch\Source\ForgottenRealmsFactionPatch\ForgottenRealmsFactionPatch\obj\Debug\ForgottenRealmsFactionPatch.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Forgotten-Realms-Faction-Patch\Source\ForgottenRealmsFactionPatch\ForgottenRealmsFactionPatch\obj\Debug\ForgottenRealmsFactionPatch.dll

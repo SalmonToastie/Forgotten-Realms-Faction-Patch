@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa6544f1-a73b-44b5-af43-7e8bb20f334c": {
+      "ProjectGuid": "fa6544f1-a73b-44b5-af43-7e8bb20f334c",
+      "DisplayName": "ForgottenRealmsFactionPatch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
